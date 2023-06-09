@@ -11,7 +11,7 @@ header("location:display.php");
 else
 {
 echo "Invalid Details";
-//header("location:pass.html");
+//header("location:index.html");
 }
 ?>
 

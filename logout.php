@@ -1,5 +1,5 @@
 <?php
 session_destroy();
 session_unset();
-header("location:pass.html");
+header("location:index.html");
 ?>
