@@ -1,6 +1,6 @@
-## PASSWORD
+# PASSWORD
 
-# Demo
+## Demo
 
  link to demo : - [Live](https://naveenmalave.github.io/pass/)
 ## Technologies used
