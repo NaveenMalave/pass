@@ -1,11 +1,15 @@
-# Pass
+## PASSWORD
 
-## Demo
+# Demo
 
  link to demo : - [Live](https://naveenmalave.github.io/pass/)
+## Technologies used
 
+- HTML
 
-click here:https://naveenmalave.github.io/pass/
+- CSS
+  
+- JAVA SCRIPT
 
 ## Authors
 
